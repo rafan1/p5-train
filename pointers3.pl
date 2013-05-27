@@ -1,4 +1,5 @@
 #!/usr/bin/perl -w
+use strict;
 
 $promena = "na to ";
 $promena1 = "nejdem ";
