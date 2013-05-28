@@ -2,3 +2,4 @@ file from web
 upraveny web
 conflict
 feature
+stable branch
