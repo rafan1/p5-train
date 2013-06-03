@@ -6,4 +6,4 @@ use Config;
 
 #system ('ls -l *.pl');
 my $ls = `ls -l *.pl`;
-print $ls, "\n";
+print "$ls\n";
